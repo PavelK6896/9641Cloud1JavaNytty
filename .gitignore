@@ -1,0 +1,8 @@
+/.idea/
+/Client/target/
+/Server/target/
+/Common/target/
+/Server/server_storage/
+/Client/loginClient/
+/Client/client_storage/
+/logfile1.log
